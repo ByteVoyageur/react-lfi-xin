@@ -1,0 +1,19 @@
+{
+  "image": {
+    "url": "/img/illustrations/girl.png",
+    "alt": "girl"
+  },
+  "subtitle": "Bienvenue",
+  "title": "Pizzas <span>artisanales</span>, <br>au <span>feu</span> de <br>bois",
+  "description": "la 11e et la 21e pizza GRATUITES.",
+  "button1": {
+    "link": "/menu",
+    "icon": "/img/ui/icons/menu.svg",
+    "label": "Our menu"
+  },
+  "button2": {
+    "link": "/about",
+    "icon": "/img/ui/icons/arrow.svg",
+    "label": "About us"
+  }
+}
